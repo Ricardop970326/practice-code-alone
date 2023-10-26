@@ -3,7 +3,7 @@
 } */
 
 body{
-    background-color: rgb(147, 219, 153);
+    background-color: rgb(166, 248, 174);
     font-family: 'Courier New', Courier, monospace;
     font-weight: 200px;
     font-size: 20px;
@@ -16,7 +16,7 @@ h1{
 .words{
     max-width: 500px;
     margin: 50px auto;
-    background: white;
+    background: rgb(226, 246, 222);
     border-radius: 5px;
     box-shadow: 10px 10px 0 rgb(0, 0, 0);
     padding: 1rem 2rem 1rem 5rem;
@@ -38,5 +38,5 @@ p{
     left: 30px;
     bottom: 0;
     border: 1px solid ;
-    border-color: transparent #efe4e4;
+    border-color: transparent #d2f6c6;
 }
