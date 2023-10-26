@@ -1,0 +1,15 @@
+body{
+    font-family: 'Mooli', sans-serif;
+}
+
+#product-overview{
+    background: #f46868;
+}
+#product-overview h1{
+    color: aliceblue;
+    font-family: 'Anton', sans-serif;
+}
+.section-plan{
+    color: aqua;
+  
+}
